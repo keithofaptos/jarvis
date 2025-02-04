@@ -1,0 +1,7 @@
+pyaudio>=0.2.13
+pygame>=2.6.1
+SpeechRecognition>=3.10.0
+requests>=2.31.0
+numpy>=1.24.0
+keyboard>=0.13.5
+python-dotenv>=1.0.0
